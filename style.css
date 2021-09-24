@@ -1,0 +1,15 @@
+.h1 {
+    text-align: center;
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+}
+
+.img-section {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 35px;
+    width: 35px;
+}
